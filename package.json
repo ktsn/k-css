@@ -1,0 +1,19 @@
+{
+  "name": "k-css",
+  "version": "1.0.0",
+  "description": "Reset CSS for easier custom styling",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktsn/k-css.git"
+  },
+  "keywords": [
+    "reset",
+    "css"
+  ],
+  "author": "katashin",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/ktsn/k-css/issues"
+  },
+  "homepage": "https://github.com/ktsn/k-css"
+}
