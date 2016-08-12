@@ -1,5 +1,7 @@
 # k-css
 
+[![npm version](https://badge.fury.io/js/k-css.svg)](https://badge.fury.io/js/k-css)
+
 Reset CSS for easier custom styling
 
 ## Usage
