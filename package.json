@@ -2,6 +2,7 @@
   "name": "k-css",
   "version": "1.0.0",
   "description": "Reset CSS for easier custom styling",
+  "files": ["k.css"],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ktsn/k-css.git"
