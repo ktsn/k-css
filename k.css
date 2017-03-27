@@ -1,4 +1,4 @@
-@charset 'utf-8';
+@charset "utf-8";
 
 * {
   box-sizing: border-box;
@@ -23,16 +23,38 @@ fieldset {
   border: none;
 }
 
-h1, h2, h3, h4, h5, h6, input, button, select, textarea {
+a {
+  color: inherit;
+}
+
+h1, h2, h3, h4, h5, h6, small, input, button, select, textarea {
   font-size: inherit;
+}
+
+h1, h2, h3, h4, h5, h6, strong, b, th {
+  font-weight: inherit;
+}
+
+em, i, dfn {
+  font-style: inherit;
+}
+
+a, u {
+  text-decoration: inherit;
+}
+
+mark {
+  background-color: transparent;
 }
 
 input[type="button"], input[type="submit"] {
   -webkit-appearance: button;
+  appearance: button;
 }
 
 select {
   -webkit-appearance: menulist-button;
+  appearance: menulist-button;
 }
 
 textarea {
