@@ -1,6 +1,6 @@
 {
   "name": "k-css",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Reset CSS for easier custom styling",
   "files": [
     "k.css"
