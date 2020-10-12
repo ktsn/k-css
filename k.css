@@ -53,8 +53,11 @@ select {
   appearance: menulist-button;
 }
 
+input, button, select, textarea {
+  font-family: inherit;
+}
+
 textarea {
-  font-family: sans-serif;
   line-height: 1;
 }
 
